@@ -8,3 +8,4 @@ Top 90+ Data Science Interview Questions and Answers: Basic to Technical : https
 
 12 Top AI Startups in the U.S. : https://www.simplilearn.com/top-artificial-intelligence-startups-in-united-states-article
 
+Data Visualization 101: 7 Steps for Effective Visualizations : https://towardsdatascience.com/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de
