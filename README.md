@@ -15,3 +15,5 @@ List of Important Libraries for Machine Learning and Data Science in Python : ht
 Common Challenges in Machine Learning and How to Tackle Them : https://pub.towardsai.net/common-challenges-in-machine-learning-and-how-to-tackle-them-cc29c47c5f24
 
 Top GitBook Projects to Learn Machine Learning : https://pub.towardsai.net/top-gitbook-projects-to-learn-machine-learning-4f8c27edcd59
+
+Top 10 Data Science Mini Projects with Python : https://www.skyfilabs.com/blog/top-10-python-data-science-mini-projects-for-beginners
