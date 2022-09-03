@@ -20,4 +20,4 @@ Top 10 Data Science Mini Projects with Python : https://www.skyfilabs.com/blog/t
 
 The Complete Data Science Study Roadmap : https://www.kdnuggets.com/2022/08/complete-data-science-study-roadmap.html
 
-250+ Data Science Interview Questions- Just Prepare Before The Interview🔥 🔥 🔥 🔥 : https://www.youtube.com/watch v=Vo2zPqyFr6c&list=PLZoTAELRMXVMbpd_KBoOY_ecwMsDy92gS&index=2&ab_channel=KrishNaik
+250+ Data Science Interview Questions- Just Prepare Before The Interview🔥 🔥 🔥 🔥 : https://www.youtube.com/watchv=Vo2zPqyFr6c&list=PLZoTAELRMXVMbpd_KBoOY_ecwMsDy92gS&index=2&ab_channel=KrishNaik
