@@ -25,3 +25,5 @@ The Complete Data Science Study Roadmap : https://www.kdnuggets.com/2022/08/comp
 The Complete Collection of Data Science Projects – Part 1 : https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-1.html
 
 The Complete Collection of Data Science Projects – Part 2 : https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-2.html
+
+Free Data Science with Python Practice Test : https://www.simplilearn.com/data-science-python-exam-free-practice-test
