@@ -27,3 +27,5 @@ The Complete Collection of Data Science Projects – Part 1 : https://www.kdnugg
 The Complete Collection of Data Science Projects – Part 2 : https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-2.html
 
 Free Data Science with Python Practice Test : https://www.simplilearn.com/data-science-python-exam-free-practice-test
+
+Which Python Web Scraping Package Is The Best? : https://pub.towardsai.net/which-python-web-scraping-package-is-the-best-11a97bfed9
