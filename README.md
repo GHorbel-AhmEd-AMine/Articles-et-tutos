@@ -29,3 +29,5 @@ The Complete Collection of Data Science Projects – Part 2 : https://www.kdnugg
 Free Data Science with Python Practice Test : https://www.simplilearn.com/data-science-python-exam-free-practice-test
 
 Which Python Web Scraping Package Is The Best? : https://pub.towardsai.net/which-python-web-scraping-package-is-the-best-11a97bfed9
+
+Everything You Always Wanted to Know About Synthetic Data : https://pub.towardsai.net/everything-you-always-wanted-to-know-about-synthetic-data-c0baf473550c
