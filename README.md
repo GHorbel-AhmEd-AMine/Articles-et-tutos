@@ -31,3 +31,5 @@ Free Data Science with Python Practice Test : https://www.simplilearn.com/data-s
 Which Python Web Scraping Package Is The Best? : https://pub.towardsai.net/which-python-web-scraping-package-is-the-best-11a97bfed9
 
 Everything You Always Wanted to Know About Synthetic Data : https://pub.towardsai.net/everything-you-always-wanted-to-know-about-synthetic-data-c0baf473550c
+
+Complete RoadMap To Learn Computer Vision : https://www.youtube.com/watch?v=jLcuVu5xdDo&ab_channel=KrishNaik
