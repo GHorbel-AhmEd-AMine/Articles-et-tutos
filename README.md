@@ -40,3 +40,5 @@ A Comprehensive Guide to T-Tests in Excel : https://pub.towardsai.net/a-comprehe
 Everything You Always Wanted to Know About Synthetic Data : https://pub.towardsai.net/everything-you-always-wanted-to-know-about-synthetic-data-c0baf473550c
 
 Complete RoadMap To Learn Computer Vision : https://www.youtube.com/watch?v=jLcuVu5xdDo&ab_channel=KrishNaik
+
+Facial Expression Recognition using Keras : https://medium.datadriveninvestor.com/facial-expression-recognition-using-keras-cbdd661a0a54
