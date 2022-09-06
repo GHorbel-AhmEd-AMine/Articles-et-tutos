@@ -9,6 +9,8 @@ Top 90+ Data Science Interview Questions and Answers: Basic to Technical : https
 Google’s Model Search: An Open Source Platform for Finding Optimal ML Models : 
 https://pub.towardsai.net/googles-model-search-an-open-source-platform-for-finding-optimal-ml-models-d2f422864a93
 
+6 Papers Every Modern Data Scientist Must Read : https://towardsdatascience.com/6-papers-every-modern-data-scientist-must-read-1d0e708becd
+
 12 Top AI Startups in the U.S. : https://www.simplilearn.com/top-artificial-intelligence-startups-in-united-states-article
 
 Data Visualization 101: 7 Steps for Effective Visualizations : https://towardsdatascience.com/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de
