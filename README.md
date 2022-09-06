@@ -11,6 +11,9 @@ https://pub.towardsai.net/googles-model-search-an-open-source-platform-for-findi
 
 6 Papers Every Modern Data Scientist Must Read : https://towardsdatascience.com/6-papers-every-modern-data-scientist-must-read-1d0e708becd
 
+The Data Science Platform Blueprint — Connect, Buffer, Process, Store and Visualize : 
+https://medium.com/plumbersofdatascience/data-engineering-project-quickstart-guide-part-1-b22addcdcff8
+
 12 Top AI Startups in the U.S. : https://www.simplilearn.com/top-artificial-intelligence-startups-in-united-states-article
 
 Data Visualization 101: 7 Steps for Effective Visualizations : https://towardsdatascience.com/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de
