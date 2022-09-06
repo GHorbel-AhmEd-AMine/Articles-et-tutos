@@ -30,6 +30,8 @@ The Complete Data Science Study Roadmap : https://www.kdnuggets.com/2022/08/comp
 
 250+ Data Science Interview Questions- Just Prepare Before The Interview🔥 🔥 🔥 🔥 : https://www.youtube.com/watchv=Vo2zPqyFr6c&list=PLZoTAELRMXVMbpd_KBoOY_ecwMsDy92gS&index=2&ab_channel=KrishNaik
 
+How to Ace Data Science Interview by Working on Portfolio Projects : https://towardsai.net/p/l/how-to-ace-data-science-interview-by-working-on-portfolio-projects?utm_source=twitter&utm_medium=social&utm_campaign=rop-content-recycle&fbclid=IwAR0yddRrisxfEJLxBYr8vpxuzYx_mX97SjClmWkCKdHVAL_KPfZIkmIExKE
+
 The Complete Collection of Data Science Projects – Part 1 : https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-1.html
 
 The Complete Collection of Data Science Projects – Part 2 : https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-2.html
