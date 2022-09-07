@@ -14,6 +14,8 @@ https://pub.towardsai.net/googles-model-search-an-open-source-platform-for-findi
 The Data Science Platform Blueprint — Connect, Buffer, Process, Store and Visualize : 
 https://medium.com/plumbersofdatascience/data-engineering-project-quickstart-guide-part-1-b22addcdcff8
 
+MLOps in 10 Minutes : https://towardsdatascience.com/mlops-in-10-minutes-165c746a9b8e
+
 12 Top AI Startups in the U.S. : https://www.simplilearn.com/top-artificial-intelligence-startups-in-united-states-article
 
 Data Visualization 101: 7 Steps for Effective Visualizations : https://towardsdatascience.com/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de
