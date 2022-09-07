@@ -55,3 +55,6 @@ Complete RoadMap To Learn Computer Vision : https://www.youtube.com/watch?v=jLcu
 Facial Expression Recognition using Keras : https://medium.datadriveninvestor.com/facial-expression-recognition-using-keras-cbdd661a0a54
 
 Application of Artificial Intelligence : https://mechomotive.com/what-are-the-application-of-artificial-intelligence/
+
+How To Extract Data From The Twitter API Using Python : https://towardsdatascience.com/how-to-extract-data-from-the-twitter-api-using-python-b6fbd7129a33
+
