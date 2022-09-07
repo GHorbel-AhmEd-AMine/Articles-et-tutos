@@ -49,3 +49,5 @@ Everything You Always Wanted to Know About Synthetic Data : https://pub.towardsa
 Complete RoadMap To Learn Computer Vision : https://www.youtube.com/watch?v=jLcuVu5xdDo&ab_channel=KrishNaik
 
 Facial Expression Recognition using Keras : https://medium.datadriveninvestor.com/facial-expression-recognition-using-keras-cbdd661a0a54
+
+Application of Artificial Intelligence : https://mechomotive.com/what-are-the-application-of-artificial-intelligence/
