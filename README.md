@@ -33,7 +33,7 @@ The Complete Data Science Study Roadmap : https://www.kdnuggets.com/2022/08/comp
 How to Speed up Model Training with Snapml : https://medium.com/geekculture/how-to-speed-up-model-training-with-snapml-b2e24b546fe5
 
 Object Detection at the Edge with TF lite model-maker : 
-https://towardsai.net/p/l/object-detection-at-the-edge-with-tf-lite-model-maker?utm_source=twitter&utm_medium=social&utm_campaign=rop-content recycle&fbclid=IwAR0iH0hiJOgXFmyZePnmWX5f9GvEHjbR-7qoqWqIzteGYcOsrhxNKgofFP0
+https://towardsai.net/p/l/object-detection-at-the-edge-with-tf-lite-model-maker?utm_source=twitter&utm_medium=social&utm_campaign=rop-contentrecycle&fbclid=IwAR0iH0hiJOgXFmyZePnmWX5f9GvEHjbR-7qoqWqIzteGYcOsrhxNKgofFP0
 
 250+ Data Science Interview Questions- Just Prepare Before The Interview🔥 🔥 🔥 🔥 : https://www.youtube.com/watchv=Vo2zPqyFr6c&list=PLZoTAELRMXVMbpd_KBoOY_ecwMsDy92gS&index=2&ab_channel=KrishNaik
 
