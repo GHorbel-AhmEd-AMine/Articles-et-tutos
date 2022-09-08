@@ -61,3 +61,5 @@ Application of Artificial Intelligence : https://mechomotive.com/what-are-the-ap
 
 How To Extract Data From The Twitter API Using Python : https://towardsdatascience.com/how-to-extract-data-from-the-twitter-api-using-python-b6fbd7129a33
 
+Statistics 101-Part 1-What is Hypothesis testing ? : https://towardsai.net/p/l/statistics-101-part-1-what-is-hypothesis-testing?fbclid=IwAR03E2kw67lTE3XcVZ0r8HzibFLWBV5_KE_v06EHSeaN9xf8PoLJugUmzaA
+
