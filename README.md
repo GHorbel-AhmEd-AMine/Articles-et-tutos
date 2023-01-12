@@ -63,3 +63,4 @@ How To Extract Data From The Twitter API Using Python : https://towardsdatascien
 
 Statistics 101-Part 1-What is Hypothesis testing ? : https://towardsai.net/p/l/statistics-101-part-1-what-is-hypothesis-testing?fbclid=IwAR03E2kw67lTE3XcVZ0r8HzibFLWBV5_KE_v06EHSeaN9xf8PoLJugUmzaA
 
+Everything We Know About GPT-4 : https://www.datacamp.com/blog/what-we-know-gpt4?fbclid=IwAR2luF2cTBioZ1w_iBh9Zh1-xiIg2vTL2pD6928pygQYxEhbbqy1ouzkpb4
